@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Mabel @Maeyy23 
+- 👋 Hi, I’m Mabel
 - 👀 I’m interested in learning, growing, networking and personal development..
-- 🌱 I am a Data Scientist (Python and Machine learning models) and a Power BI semi-expert
-- 💞️ I’m looking to collaborate on Data science and other stuff
+- 🌱 I am a Backend Developer...
 - 📫 You can reach me via email at msmabel23@gmail.com. I would love to hear from you.
 
 <!---
